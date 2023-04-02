@@ -1,0 +1,18 @@
+2023-04-02 23:04:45.778045 - Initialized conversion of CBT268
+2023-04-02 23:04:45.925610 - Received CBT.V504.FILE268.PDS from FILE268.XMI 
+2023-04-02 23:04:45.927908 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:04:45.929467 - Found $$DOC.txt (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/$$DOC
+2023-04-02 23:04:45.930662 - Found $$NOTE22.txt (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/$$NOTE22
+2023-04-02 23:04:45.931796 - Found $$NOTE3.txt (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/$$NOTE3
+2023-04-02 23:04:45.932775 - Found $CHNGLOG.txt (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/$CHNGLOG
+2023-04-02 23:04:45.933867 - Found $NOTEINS.txt (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/$NOTEINS
+2023-04-02 23:04:45.935129 - Found $README.txt (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/$README
+2023-04-02 23:04:45.936174 - Found @FILE268.txt (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/@FILE268
+2023-04-02 23:04:45.937313 - Found ASMRXVS.jcl (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/ASMRXVS
+2023-04-02 23:04:45.938260 - Found RUNTESTS.jcl (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/RUNTESTS
+2023-04-02 23:04:45.939367 - Found RXVSAM.txt (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/RXVSAM
+2023-04-02 23:04:45.940369 - Found RXVSAM$.txt (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/RXVSAM$
+2023-04-02 23:04:45.941357 - Found RXVSET.rexx (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/RXVSET
+2023-04-02 23:04:45.942282 - Found RXVTESTE.rexx (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/RXVTESTE
+2023-04-02 23:04:45.943169 - Found RXVTESTK.rexx (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/RXVTESTK
+2023-04-02 23:04:45.944124 - Found RXVTESTR.rexx (text/plain) in CBT.V504.FILE268.PDS, moved to PDS/RXVTESTR
